@@ -64,7 +64,7 @@ Users can input feature values into an interactive web application that uses Str
 4. Breast_cancer_data.csv: The preprocessed dataset.
 5. streamlit.py: Streamlit application for user interaction and predictions.
 
-### Output
+### Deployed link
 
 https://breast-cancer-data-analysis-and-app-app-jpvxh7qbz7mxmvuepzw24b.streamlit.app/
 
