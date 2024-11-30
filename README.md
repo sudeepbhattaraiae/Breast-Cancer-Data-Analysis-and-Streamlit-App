@@ -15,8 +15,8 @@ To set up the project, follow these steps:
 
 1. **(Optional) Create a Virtual Environment**:
    **Creating a virtual environment is optional but recommended for better dependency management. If you choose to create one, follow these commands:**
-   ```bash
-   python -m venv Name
+   
+   ![alt text](image-3.png)
 
 2. (Optional) Activate the Virtual Environment: If you created a virtual environment, activate it using:
 
