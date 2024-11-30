@@ -66,7 +66,7 @@ Users can input feature values into an interactive web application that uses Str
 
 ### Output
 
-https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
+https://breast-cancer-data-analysis-and-app-app-jpvxh7qbz7mxmvuepzw24b.streamlit.app/
 
 ### Preview
 Here is a preview of the application:
